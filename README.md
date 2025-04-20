@@ -58,7 +58,13 @@ Dependencies
 
 Screenshots:
 🔐 Login Page
-![Screenshot From 2025-04-20 20-29-19](https://github.com/user-attachments/assets/9d1bc7bd-2eab-4ed8-bb23-3a6e3720f611)
+![Screenshot From 2025-04-20 20-34-44](https://github.com/user-attachments/assets/246992ff-8ce0-4055-8f90-b73c3701a74f)
+
+🧖 Spa Services Page
+![Screenshot From 2025-04-20 20-35-57](https://github.com/user-attachments/assets/55b63c48-11d7-4367-a455-1de2a62d5cec)
+
+
+Spa Page
 
 Author
 
